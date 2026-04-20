@@ -172,3 +172,11 @@ Environment Setup
   OPENROUTER_API_KEY=your_key_here
   PINECONE_API_KEY=your_key_here
   OPENAI_API_KEY=your_key_here
+
+Future Enhancements
+  Multi-drug support beyond Acetaminophen
+  User authentication & role-based access
+  Persistent conversation history
+  Advanced analytics dashboard
+  CI/CD pipeline for automated testing
+  Containerization (Docker) for deployment
