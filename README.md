@@ -128,40 +128,40 @@ The system tracks critical metrics:
 ---
 
 ## Technical Highlights
-  Advanced Prompt Engineering
-  Iterative refinement with feedback loops
-  Adversarial test case generation
-  Multi-criteria decision making in single prompt
-  Robust Error Handling
-  Authentication error detection
-  JSON validation & parsing
-  Graceful degradation with informative feedback
-  Scalable Architecture
-  Modular design separating concerns
-  Reusable components (guard, classifier, RAG)
-  Cloud-ready with Pinecone integration
-  Production-Ready Security
-  Temperature=0 for deterministic security decisions
-  Temperature=0.65 for balanced generation
+  Advanced Prompt Engineering,
+  Iterative refinement with feedback loops,
+  Adversarial test case generation,
+  Multi-criteria decision making in single prompt,
+  Robust Error Handling,
+  Authentication error detection,
+  JSON validation & parsing,
+  Graceful degradation with informative feedback,
+  Scalable Architecture,
+  Modular design separating concerns,
+  Reusable components (guard, classifier, RAG),
+  Cloud-ready with Pinecone integration,
+  Production-Ready Security,
+  Temperature=0 for deterministic security decisions,
+  Temperature=0.65 for balanced generation,
   Strict output format validation
  
 ## Real-World Applications
 ✅ Medical Information Systems (Doctors only) ✅ Drug Interaction Verification ✅ Clinical Decision Support Tools ✅ Secure Medical AI Chatbots ✅ Adversarial AI Testing & Robustness Evaluation ✅ Prompt Engineering Research & Development
  
 ## Learning Outcomes Demonstrated
-  LLM Orchestration: Multi-stage pipelines with specialized agents
-  Prompt Engineering: Iterative optimization & self-refinement
-  Security & Safety: Guardrailing harmful outputs & detecting attacks
-  Vector Search & RAG: Semantic document retrieval & context integration
-  LLM Evaluation: Comprehensive KPI measurement & failure analysis
-  Full-Stack AI: From backend LLM operations to interactive UI
+  LLM Orchestration: Multi-stage pipelines with specialized agents,
+  Prompt Engineering: Iterative optimization & self-refinement,
+  Security & Safety: Guardrailing harmful outputs & detecting attacks,
+  Vector Search & RAG: Semantic document retrieval & context integration,
+  LLM Evaluation: Comprehensive KPI measurement & failure analysis,
+  Full-Stack AI: From backend LLM operations to interactive UI.
 
 ## Future Enhancements
-  Multi-drug support beyond Acetaminophen
-  User authentication & role-based access
-  Persistent conversation history
-  Advanced analytics dashboard
-  CI/CD pipeline for automated testing
+  Multi-drug support beyond Acetaminophen,
+  User authentication & role-based access,
+  Persistent conversation history,
+  Advanced analytics dashboard,
+  CI/CD pipeline for automated testing,
   Containerization (Docker) for deployment
 
 ## Quick Start
