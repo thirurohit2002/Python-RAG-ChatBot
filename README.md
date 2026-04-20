@@ -82,7 +82,7 @@ The system implements a **two-stage security model** that filters potentially ha
 ---
 
 ## Project Structure
-langchain-project/ ├── drug_chat.py # Main Streamlit app with two-stage security orchestrator ├── drug_chat_loop.py # Iterative prompt refinement engine ├── core.py # RAG pipeline with vector retrieval ├── measure_kpis_drug_chat.py # KPI measurement & performance analysis ├── test_dataset.py # 10-query test suite for validation ├── ingestion.py # Document pipeline & vector indexing (archived) ├── logger.py # Logging utilities (archived) ├── Pipfile # Dependency management └── pycache/ # Python bytecode cache
+langchain-project/ ├── drug_chat.py # Main Streamlit app with two-stage security orchestrator ├── drug_chat_loop.py # Iterative prompt refinement engine ├── core.py # RAG pipeline with vector retrieval ├── measure_kpis_drug_chat.py # KPI measurement & performance analysis ├── test_dataset.py # 10-query test suite for validation ├── logger.py # Logging utilities (archived) ├── Pipfile # Dependency management └── pycache/ # Python bytecode cache
 
 ---
 
