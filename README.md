@@ -156,6 +156,14 @@ Vector Search & RAG: Semantic document retrieval & context integration
 LLM Evaluation: Comprehensive KPI measurement & failure analysis
 Full-Stack AI: From backend LLM operations to interactive UI
 
+Future Enhancements
+  Multi-drug support beyond Acetaminophen
+  User authentication & role-based access
+  Persistent conversation history
+  Advanced analytics dashboard
+  CI/CD pipeline for automated testing
+  Containerization (Docker) for deployment
+
 ## Quick Start
 
 ### Prerequisites
@@ -172,11 +180,3 @@ Environment Setup
   OPENROUTER_API_KEY=your_key_here
   PINECONE_API_KEY=your_key_here
   OPENAI_API_KEY=your_key_here
-
-Future Enhancements
-  Multi-drug support beyond Acetaminophen
-  User authentication & role-based access
-  Persistent conversation history
-  Advanced analytics dashboard
-  CI/CD pipeline for automated testing
-  Containerization (Docker) for deployment
